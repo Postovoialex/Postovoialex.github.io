@@ -370,11 +370,12 @@ html {
     }
 
     .contact img {
-        width: 40%;
+        width: 50%;
     }
 
     .main_text {
         font-size: 140%;
+        margin-top: 8%;
     }
 
     .row_icons {
@@ -403,6 +404,8 @@ html {
 
     .row_icons {
         padding: 0px;
+        grid-gap: 40px;
     }
-
+    .text_contact {
+        font-size: 95%;
 }
