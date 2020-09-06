@@ -37,6 +37,7 @@ html {
     width: auto;
     height: 100%;
     display: grid;
+    -webkit-display: grid;
     grid-gap: 20px;
     grid-template-columns: repeat(3, 100px);
     margin: 10px;
@@ -366,7 +367,7 @@ html {
 
 @media (max-width: 600px) {
     .contact {
-        height: 90vh;
+        height: 100vh;
     }
 
     .contact img {
