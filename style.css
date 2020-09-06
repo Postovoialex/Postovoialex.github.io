@@ -367,7 +367,7 @@ html {
 
 @media (max-width: 600px) {
     .contact {
-        height: 100vh;
+        height: 95vh;
     }
 
     .contact img {
