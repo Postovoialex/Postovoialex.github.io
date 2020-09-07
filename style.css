@@ -416,7 +416,10 @@ html {
         .contact {
             height: 80vh;}
     
-.summary_skills_education{
-    margin-top: 8vh;}
+        .summary_skills_education{
+             margin-top: 8vh;}
+
+        .row_icons{
+            margin-top:20%;}
 }
     
