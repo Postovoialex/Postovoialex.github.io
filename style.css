@@ -412,7 +412,7 @@ html {
 }
 }
     
-@media(min-height: 700px) and (max-height: 812px){
+@media(min-height: 720px) and (max-height: 823px){
         .contact {
             height: 80vh;}
     
