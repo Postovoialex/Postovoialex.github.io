@@ -415,4 +415,8 @@ html {
 @media(min-height: 700px) and (max-height: 812px){
         .contact {
             height: 80vh;}
-    }
+    
+.summary_skills_education{
+    margin-top: 8vh;}
+}
+    
